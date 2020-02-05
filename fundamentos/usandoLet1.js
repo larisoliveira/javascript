@@ -1,4 +1,4 @@
-// O let, diferente do var, possui o espoco de bloco, então o seu valor é apenas válido para o escopo no qual ele está inserido
+// O let, diferente do var, possui o escopo de bloco, então o seu valor é apenas válido para o escopo no qual ele está inserido
 
 let numero = 1 
 {
