@@ -1,4 +1,4 @@
-
+//  No lado esquerdo estamos usando o operador de desestruturação e no lado direito estamos criando um array
 const [a] = [10]
 console.log(a)
 
